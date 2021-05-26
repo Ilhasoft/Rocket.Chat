@@ -491,7 +491,7 @@ jobs:
         release: ["official", "preview"]
 
     env:
-      IMAGE: "rocketchat/rocket.chat"
+      IMAGE: "bothubit/rocket.chat"
 
     steps:
     - uses: actions/checkout@v2
